@@ -22,7 +22,7 @@ const clash = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Sama Bahgat",
+  title: "Sama Farag",
   description:
     "I'm Sama, a software engineer. I design websites and apps, build them, and put them online.",
 };
